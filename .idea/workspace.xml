@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="001967a7-68a2-4a72-bee0-b208f965fe57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1x52QUaszmrOSSUEPWxvDzJUyX9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\electro\app" />
+      <recent name="C:\laragon\www\electro\views" />
+      <recent name="C:\laragon\www\electro\views\components" />
+      <recent name="C:\laragon\www\electro\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\electro" />
+      <recent name="C:\laragon\www\electro\views\components" />
+      <recent name="C:\laragon\www\electro\views" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="001967a7-68a2-4a72-bee0-b208f965fe57" name="Default Changelist" comment="" />
+      <created>1629630615758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629630615758</updated>
+      <workItem from="1629630627084" duration="16748000" />
+      <workItem from="1629701726694" duration="33662000" />
+      <workItem from="1629752059983" duration="10098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="108" key="#SQL_Dialects" timestamp="1629705809723">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="108" key="#SQL_Dialects/0.0.1600.900@0.0.1600.900" timestamp="1629705809723" />
+    <state x="392" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629710910175">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900@0.0.1600.900" timestamp="1629710910175" />
+    <state x="605" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1629745836936">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="605" y="165" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1629745836936" />
+    <state x="530" y="204" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1629661644439">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="530" y="204" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.900@0.0.1600.900" timestamp="1629661644439" />
+    <state x="563" y="360" key="ComposerInitDialogKey" timestamp="1629635157637">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="563" y="360" key="ComposerInitDialogKey/0.0.1600.900@0.0.1600.900" timestamp="1629635157636" />
+    <state x="630" y="248" key="NewPhpClassDialog" timestamp="1629745799281">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="630" y="248" key="NewPhpClassDialog/0.0.1600.900@0.0.1600.900" timestamp="1629745799281" />
+    <state x="634" y="369" key="NewPhpFileDialog" timestamp="1629752411681">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="634" y="369" key="NewPhpFileDialog/0.0.1600.900@0.0.1600.900" timestamp="1629752411681" />
+    <state x="301" y="92" key="SettingsEditor" timestamp="1629630646817">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="301" y="92" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1629630646817" />
+    <state x="464" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1629752084895">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="464" y="273" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1629752084895" />
+    <state x="456" y="205" key="run.anything.popup" timestamp="1629702929362">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="456" y="205" key="run.anything.popup/0.0.1600.900@0.0.1600.900" timestamp="1629702929362" />
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1629768648037">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1629768648037" />
+  </component>
+</project>
